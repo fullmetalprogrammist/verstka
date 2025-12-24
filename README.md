@@ -2,7 +2,8 @@
 
 Здесь я оставляю ссылки на файл с комментариями к демке, а в нем будет уже ссылка на страницу с демкой.
 
-- [THS - главная страница](https://github.com/fullmetalprogrammist/verstka/blob/main/demos/ths-main-page/readme.md)
+- [THS - главная страница](https://fullmetalprogrammist.github.io/verstka/demos/ths-main-page/)
   - Как прижать футер к низу страницы
   - Центрирование хедера, футера по горизонтали + их заливка на всю ширину страницы
 - 
+
